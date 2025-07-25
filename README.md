@@ -29,13 +29,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./design/desktopview.png)
-![](./design/mobileview.png)
+
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-aNsVcPptoi]()
 - Live Site URL: [https://victoryruro.github.io/intro-section/]()
 
 ## My process
